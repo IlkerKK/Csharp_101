@@ -1,0 +1,15 @@
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\bin\Debug\net6.0\array.exe
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\bin\Debug\net6.0\array.deps.json
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\bin\Debug\net6.0\array.runtimeconfig.json
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\bin\Debug\net6.0\array.dll
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\bin\Debug\net6.0\array.pdb
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.AssemblyInfo.cs
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.dll
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\refint\array.dll
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.pdb
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\array.genruntimeconfig.cache
+C:\Users\yedek\OneDrive\Belgeler\GitHub\Csharp_101\WorkSpace\obj\Debug\net6.0\ref\array.dll
